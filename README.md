@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Netlify](https://ordersummarycard-frontendmentor.netlify.app/)
 
 ## My process
 
